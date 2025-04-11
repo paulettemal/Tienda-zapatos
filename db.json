@@ -1,0 +1,76 @@
+{
+    "zapatos": [
+        {
+        "id": "1",
+        "nombre": "Off-White",
+        "descripcion": "Out Of Office Ooo sneakers ",
+        "precio": "775",
+        "descuento": 0.15,
+        "imagen": "z1.png",
+        "arregloImgs": ["zapato111.png", "zapato1111.png", "zapato1.png"],
+        "cantidad": 5,
+        "descipcionGrande": "Energize your look with a fresh take on heritage adidas style. The adidas Daily 3.0 Shoes cut a classic profile with a modern suede upper. Your walk across campus or commute across town has never looked or felt this good.",
+        "detalles": [
+            "Regular fit",
+            "Lace closure",
+            "Rubber outsole with vulcanized look",
+            "Imported"
+        ],
+        "imagenInferior": ["imagen.png"]
+    },
+    {
+        "id": "2",
+        "nombre": "Nike",
+        "descripcion": "Nike Gamma Force",
+        "precio": "200",
+        "descuento": 0.05,
+        "imagen": "z2.png",
+        "arregloImgs": ["z22.png", "z22.png", "z22.png"],
+        "cantidad": 8,
+        "descipcionGrande": "The Nike Gamma Force takes classic hoops DNA and remixes it with a streetwear edge. Its layered look, mixed materials and subtle platform elevate your 'fit without being too over the top.",
+        "detalles": [
+            "Leather, synthetic leather and mesh upper",
+            "Rubber outsole",
+            "Foam midsole",
+            "Perforations on the toe"
+        ],
+        "imagenInferior": ["z22.png"]
+    },
+    {
+        "id": "3",
+        "nombre": "Nike",
+        "descripcion": "Cosmic Unity 3",
+        "precio": "160",
+        "descuento": 0.20,
+        "imagen": "z3.png",
+        "arregloImgs": ["z33.png", "z33.png", "z33.png", "z33.png"],
+        "cantidad": 20,
+        "descipcionGrande": "Play for the planet in the Cosmic Unity 3. Made with at least 20% recycled content by weight, we've created a smooth and secure design for a game that's as unique as you are. Responsive Zoom Air helps you feel springy and quick on both ends of the court.",
+        "detalles": [
+            "Made with at least 20% recycled content by weight",
+            "Zoom Air unit provides responsiveness",
+            "Molded rubber outsole for traction",
+            "Lightweight and durable design"
+        ], 
+        "imagenInferior": ["z33.png"]
+    },
+    {
+        "id": "4",
+        "nombre": "adidas",
+        "descripcion": "DAILY 3.0 SHOES",
+        "precio": "98.99",
+        "descuento": 0.10,
+        "imagen": "z4.png",
+        "arregloImgs": ["z44.png", "z44.png"],
+        "cantidad": 10,
+        "descipcionGrande": "Energize your look with a fresh take on heritage adidas style. The adidas Daily 3.0 Shoes cut a classic profile with a modern suede upper. Your walk across campus or commute across town has never looked or felt this good.",
+        "detalles": [
+            "Suede upper",
+            "OrthoLite sockliner",
+            "Vulcanized-look rubber outsole",
+            "Textile lining"
+        ],
+        "imagenInferior": ["z44.png"]
+    }
+    ]
+}
